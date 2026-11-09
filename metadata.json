@@ -1,0 +1,6 @@
+{
+  "name": "Stoic Daily - Intentional Growth & Admin Hub",
+  "description": "A calm daily practice for Stoic intentions, dichotomy of control, mindful reflection, personal growth, and comprehensive administrator features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,9 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+stoic-daily-project.zip
+*.log
+.env*
+!.env.example
